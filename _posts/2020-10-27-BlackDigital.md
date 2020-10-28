@@ -18,4 +18,4 @@ title: Understanding the Black Digital Humanities
 
 Gallon, Kim. “Making a Case For the Black Digital Humanities.” Debates in the Digital Humanities, edited by Matthew Gold and Lauren Klein, University of Minnesota Press, 2016,.  
 <br>
-Johnson, Jessica Marie. “Markup Bodies.” Social Text, vol. 36, no. 4, 2018, &#9;pp. 57–79.,doi:10.1215/01642472-7145658. 
+Johnson, Jessica Marie. “Markup Bodies.” Social Text, vol. 36, no. 4, 2018, <pre>&#9;</pre>pp. 57–79.,doi:10.1215/01642472-7145658. 
