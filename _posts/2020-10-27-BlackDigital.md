@@ -9,6 +9,7 @@ title: Understanding the Black Digital Humanities
 <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, the field of black digital humanities is extremely small. The majority of digital humanists have predominantly explored the ways the digital has affected white humanity. It has seldom accounted for other minorities such as the black community. This leads to the idea that the black digital humanities “foregrounds the digital as a mutual host for racism and resistance” (Gallon Ch. 4). Research through data mining can present information about cases of racism within the digital system, while also discussing how to combat it. The black digital is still evolving, but to truly understand how blackness fits within digital humanities, one must go back to the eighteenth and nineteenth centuries Atlantic slave archives. 
 <br>
+<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the the Atlantic Slave Trade, abolitionists recounted instances of black deaths as a way to fight for themselves. The media that was put out at the time was their form of data, and also was the first step taken by the black community to put themselves within the humanities. In “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,” Jessica Marie Johnson posits the idea that “Black digital practice is the revelation that black subjects have themselves taken up science, data, and coding, in other words, have commodified themselves and digitized and mediated their own black freedom dreams, in order to hack their way into systems” (Johnson).Black digital humanists have long been trying to fit themselves into the digital humanities to provide a space for the black perspective and an accurate representation of black lives throughout history. One of the biggest data projects in the black digital humanities was the Trans-Atlantic Slave Trade Database, which was supported by the W.E.B. Du Bois Institute for African and African American Research at Harvard. This project was one of the first large scale projects regarding the black digital humanities and made itself a significant presence on social media sites such as Twitter and Facebook. This led to an increase in knowledge regarding specific roles and statistics of slaves in the slave trade, and created a space for researchers to collaborate.
 <br>
 <br>
@@ -16,6 +17,6 @@ title: Understanding the Black Digital Humanities
 <br>
 <b>Works Cited</b>
 
-Gallon, Kim. “Making a Case For the Black Digital Humanities.” Debates in the Digital Humanities, edited by Matthew Gold and Lauren Klein, University of Minnesota Press, 2016,.  
+Gallon, Kim. “Making a Case For the Black Digital Humanities.” <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Debates in the Digital Humanities, edited by Matthew<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gold and Lauren Klein, University of Minnesota <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press, 2016,.  
 <br>
-Johnson, Jessica Marie. “Markup Bodies.” Social Text, vol. 36, no. 4, 2018, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pp. 57–79.,doi:10.1215/01642472-7145658. 
+Johnson, Jessica Marie. “Markup Bodies.” <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Social Text, vol. 36, no. 4, 2018, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pp. 57–79.,doi:10.1215/01642472-7145658. 
