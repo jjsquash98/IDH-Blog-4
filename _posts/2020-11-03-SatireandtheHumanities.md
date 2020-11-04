@@ -20,7 +20,7 @@ title: Satire Within the Humanities
 Works Cited
 <br>
 <br>
-Allison, Sarah. “Other People's Data: Humanities Edition: Published in Journal of Cultural Analytics.” Journal of Cultural Analytics, Department of Languages, Literatures, and Cultures, 18 Dec. 2016, culturalanalytics.org/article/11822-other-people-s-data-humanities-edition. 
+Allison, Sarah. “Other People's Data: Humanities Edition: Published in &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal of Cultural Analytics.” Journal of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cultural Analytics, Department of Languages, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Literatures, and Cultures, 18 Dec. 2016, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;culturalanalytics.org/article/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11822-other-people-s-data-humanities-edition. 
 <br>
 <br>
-Defoe, Daniel. Shortest-Way with the Dissenters.Generic NL Freebook &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Publisher. EBSCOhost,library.emmanuel.edu:8443/login?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qurl=http%3a%2f%2fsearch.ebscohost.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;com%2flogin.a	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spx%3fdirect%3dtrue%26db%3dnlebk%26AN%3d2008455%26site%3deds-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live%26scope%3dsite. Accessed 10 Dec. 2018.
+Defoe, Daniel. Shortest-Way with the Dissenters.Generic NL Freebook &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Publisher.&nbsp;&nbsp;&nbsp;EBSCOhost,library.emmanuel.edu:8443/login?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qurl=http%3a%2f%2fsearch.ebscohost.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;com%2flogin.a	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spx%3fdirect%3dtrue%26db%3dnlebk%26AN%3d2008455%26site%3deds-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live%26scope%3dsite. Accessed 10 Dec. 2018.
