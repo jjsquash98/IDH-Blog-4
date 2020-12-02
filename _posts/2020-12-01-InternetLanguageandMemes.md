@@ -29,11 +29,15 @@ Fig. 3. Source: The Atlantic, https://www.theatlantic.com/politics/archive/2013/
 politicians-trying-be-cool-twitter/356429/
 
 The popularity of meme culture has only increased over the years, and has changed many things sociolinguistically. It has become common practice to mention memes, talk in the style of memes, and to use memes to spread awareness for a serious cause, but as they evolve, so will we. But what does the future hold for meme culture and how can we study that? Beyond bringing us humor, I think scholars should work on understanding the impact of the evolution of memes throughout time. Imagine a database full of varying collections of memes and the recreation of those memes. These collections could be time-stamped, analyzed for their significant components: language, demeanor, topic, relevance to the time period, etc. Once completed, they can be compared to the social constructs apparent during their time of the creation, hopefully addressing the following questions:
+<br> 
 <br>
-How were the memes used?
+<i>How were the memes used?
+<br>
 Did the culture influence the memes, or did the memes influence the culture?
-What relevance did the meme have during the specific time period?
-
+<br>
+What relevance did the meme have during the specific time period?</i>
+<br>
+<br>
 These are big questions that may not have just one answer, but if something so simple as an internet post has the ability to change the way we act, speak, post, and think, then we should be studying them. 
 
 
