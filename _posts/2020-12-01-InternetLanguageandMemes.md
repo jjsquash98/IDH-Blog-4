@@ -46,8 +46,19 @@ com/wp-content/uploads/2013/09/goodbye-meme.jpg
 
 
 
-
-
-
-
 Works Cited:
+<br>
+
+<br
+Bown, Alfie, and Daniel Bristow. Post Memes: Seizing the Memes of Production. Punctum Books, 2019. 
+<br>
+“Doge.” Know Your Meme, 30 Nov. 2020, knowyourmeme.com/memes/doge. 
+<br>
+Jones, Allie. “Cool Politicians Use Doge Memes to Prove They Really 'Get' Twitter.” The Atlantic, Atlantic Media Company, 23 Dec. 2013, www.theatlantic.com/politics/archive/2013/12/politicians-trying-be-cool-twitter/356429/. 
+<br>
+“OKAY I'M DONE AWESOME TEAMW BYE Okay I'm Done Bye - Memes and Comics: Meme on ME.ME.” Me.me, me.me/i/okay-im-done-awesome-teamw-bye-okay-im-done-bye-a197dc6e58eb4f10ab6b01687dfcc6f1. 
+<br>
+“Sociolinguistics: Definition of Sociolinguistics by Oxford Dictionary on Lexico.com Also Meaning of Sociolinguistics.” Lexico Dictionaries | English, Lexico Dictionaries, www.lexico.com/en/definition/sociolinguistics. 
+<br>
+Vakil, Keya. “This Is Fine: The Best Coronavirus Memes on the Internet Right Now.” COURIER, COURIER, 26 June 2020, couriernewsroom.com/2020/06/26/best-coronavirus-memes-on-the-internet-right-now/. 
+<br>
