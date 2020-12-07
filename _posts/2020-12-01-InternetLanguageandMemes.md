@@ -49,9 +49,7 @@ com/wp-content/uploads/2013/09/goodbye-meme.jpg
 Works Cited:
 <br>
 
-<br
 Bown, Alfie, and Daniel Bristow. Post Memes: Seizing the Memes of Production. Punctum Books, 2019. 
-<br>
 <br>
 <br>
 “Doge.” Know Your Meme, 30 Nov. 2020, knowyourmeme.com/memes/doge. 
