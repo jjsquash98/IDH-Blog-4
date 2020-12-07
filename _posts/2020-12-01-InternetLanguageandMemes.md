@@ -7,8 +7,7 @@ Growing up during the age of the internet and social media, I noticed that my ch
 <br>
 One of the biggest shifts in satire that affects everyday language was the creation of the internet ‘meme culture.’ Memes are essentially humorous images or videos that become viral enough to the extent that they are referenced in everyday conversations, AKA internet language. According to Post Memes: Seizing the Memes of Production, by Alfie Brown and Dan Bristown, “...teenagers are using humor and irony---through the form of memes---to find ways to face up to and discuss deeper stresses and anxieties, too” (100). Issues tackled by memes include politics, racism, homophobia, and many others, but it is the satirical humor in these memes that gains peoples’ attention. Memes often use the same images or clips while changing the worded lines, so that they can fit different topics or issues, but this isn’t their only influential aspect. 
 
-![2020]({{ site.url }}{{ site.baseurl }}/assets/css/2020.jpeg)
-
+![](https://i-cdn.embed.ly/1/display?key=fd92ebbc52fc43fb98f69e50e7893c13&url=https%3A%2F%2Fi.redd.it%2F7kmlfxwx9q251.jpg)
 
 Fig. 1. Source: Courier, https://couriernewsroom.com/2020
 /06/26/best-coronavirus-memes-on-the-internet-right-now/
