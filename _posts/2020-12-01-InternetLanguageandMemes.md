@@ -17,11 +17,11 @@ Fig. 1. Source: Courier, https://couriernewsroom.com/2020
 
 The infamous Doge Meme became well known not only for the funny image, but also because of its use of two-word phrases. People became obsessed with this meme and often started talking in the same two-word-phrase style. This meme was also recreated over and over, but with different contexts. Politicians, musicians, influencers, business, and pretty much everyone else on the planet started creating, sharing, and enjoying memes. 
 
-
+![](https://i.kym-cdn.com/photos/images/newsfeed/000/581/722/7bc.jpg)
 
 Fig. 2. Source: Know Your Meme, https://knowyourmeme.com/memes/doge
 
-
+![](https://cdn.theatlantic.com/thumbor/i78cWzze3dnl6zJokrUTXzTvclQ=/21x18:751x429/720x405/filters:format(png)/media/img/upload/wire/2013/12/23/Screen_Shot_2013_12_23_at_12.11.03_PM/original.png)
 
 
 Fig. 3. Source: The Atlantic, https://www.theatlantic.com/politics/archive/2013/12/
@@ -39,6 +39,7 @@ What relevance did the meme have during the specific time period?</i>
 <br>
 These are big questions that may not have just one answer, but if something so simple as an internet post has the ability to change the way we act, speak, post, and think, then we should be studying them. 
 
+![](https://i1.wp.com/ohksocial.com/wp-content/uploads/2013/09/goodbye-meme.jpg)
 
 Fig. 4. Source: WordPress, https://i1.wp.com/ohksocial.
 com/wp-content/uploads/2013/09/goodbye-meme.jpg
